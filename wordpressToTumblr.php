@@ -1,9 +1,9 @@
 <?php
 
 // Set the following parameters
-$tumblrEmail = 'baby_perfecto92@live.com';
-$tumblrPassword = 'lifeissabi';
-$file = '/Users/Shahid/Downloads/nakednayabslut.wordpress.2013-06-11.xml';
+$tumblrEmail = '';
+$tumblrPassword = '';
+$file = '';
 
 $tumblr = new Tumblr();
 $tumblr->setCredentials($tumblrEmail, $tumblrPassword);
